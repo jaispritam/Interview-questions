@@ -1,4 +1,4 @@
-#27. Leetcode
+#26. Leetcode
 # Remove Duplicates from Sorted Array
 
 class Solution:
@@ -31,3 +31,4 @@ class Solution:
                 nums[index] = nums[i]
 
         return index + 1
+
