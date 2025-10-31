@@ -1,4 +1,4 @@
-Interview Questions - DSA in Python
+**Interview Questions - DSA in Python**
 
 Welcome to this repository! 🎯
 
@@ -12,19 +12,19 @@ Improve problem-solving skills and coding efficiency.
 
 Repository Structure
 
-Arrays/ – Array-related questions
+**Arrays**/ – Array-related questions
 
-Strings/ – String manipulation problems
+**Strings**/ – String manipulation problems
 
-LinkedLists/ – Linked list operations
+**LinkedLists**/ – Linked list operations
 
-Stacks_Queues/ – Stack and queue challenges
+**Stacks_Queues**/ – Stack and queue challenges
 
-Trees/ – Binary tree and binary search tree questions
+**Trees**/ – Binary tree and binary search tree questions
 
-Graphs/ – Graph traversal and algorithms
+**Graphs**/ – Graph traversal and algorithms
 
-DynamicProgramming/ – DP-based problems
+**DynamicProgramming**/ – DP-based problems
 
 Each problem includes:
 
