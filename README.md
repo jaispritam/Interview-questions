@@ -1,50 +1,50 @@
-**Interview Questions - DSA in Python**
+ # **Interview Questions - DSA in Python**
 
-Welcome to this repository! 🎯
+## Welcome to this repository! 🎯
 
 This repository contains a curated collection of Data Structures and Algorithms (DSA) questions solved in Python. It is designed to help you:
 
-Practice essential DSA problems frequently asked in coding interviews.
+- Practice essential DSA problems frequently asked in coding interviews.
 
-Understand Python-based solutions for common algorithmic patterns.
+- Understand Python-based solutions for common algorithmic patterns.
 
-Improve problem-solving skills and coding efficiency.
+- Improve problem-solving skills and coding efficiency.
 
-Repository Structure
+## Repository Structure
 
-**Arrays**/ – Array-related questions
+- **Arrays**/ – Array-related questions
 
-**Strings**/ – String manipulation problems
+- **Strings**/ – String manipulation problems
 
-**LinkedLists**/ – Linked list operations
+- **LinkedLists**/ – Linked list operations
 
-**Stacks_Queues**/ – Stack and queue challenges
+- **Stacks_Queues**/ – Stack and queue challenges
 
-**Trees**/ – Binary tree and binary search tree questions
+- **Trees**/ – Binary tree and binary search tree questions
 
-**Graphs**/ – Graph traversal and algorithms
+- **Graphs**/ – Graph traversal and algorithms
 
-**DynamicProgramming**/ – DP-based problems
+- **DynamicProgramming**/ – DP-based problems
 
 Each problem includes:
 
-Problem description
+- Problem description
 
-Python solution
+- Python solution
 
-Explanation (where necessary)
+- Explanation (where necessary)
 
-How to Use
+### How to Use
 
-Clone the repository:
+1.Clone the repository:
 
 git clone <repository_url>
 
 
-Navigate to the folder of your topic of interest.
+2.Navigate to the folder of your topic of interest.
 
-Practice problems and compare your solutions with the provided ones.
+3.Practice problems and compare your solutions with the provided ones.
 
 Feel free to contribute by adding more DSA problems, improving existing solutions, or suggesting optimizations.
 
-Happy Coding! 🚀
+# Happy Coding! 🚀
