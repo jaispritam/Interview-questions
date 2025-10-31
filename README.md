@@ -38,7 +38,7 @@ Each problem includes:
 
 1.Clone the repository:
 
-git clone <repository_url>
+     git clone <repository_url>
 
 
 2.Navigate to the folder of your topic of interest.
